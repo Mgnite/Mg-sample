@@ -1,4 +1,4 @@
-# Mg samples
+# Mg-sample
 
 Copyright (c) 2024 Mgnite Inc. All rights reserved.
 
