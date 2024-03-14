@@ -1,4 +1,4 @@
-package MgPyExample1 {
+package MgPySimple {
     import SI::*;
     part def Vehicle {
         attribute mass default 1200[kg];
