@@ -16,4 +16,4 @@ and then run mg.cmd.
 
 ## Licenses
 
-Distributed under the EPL License. See `LICENSE.txt` for more information.
+Distributed under the EPL License. See `LICENSE` for more information.
