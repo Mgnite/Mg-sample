@@ -5,7 +5,7 @@ Copyright (c) 2024 Mgnite Inc. All rights reserved.
 ## About The Project
 
 This project distributes the Mg samples.
-To execute them, please download Mg from mg.mgnite.com
+To execute them, please download Mg from [the Mg site](https://mg.mgnite.com)
 
 ## Instruction
 
